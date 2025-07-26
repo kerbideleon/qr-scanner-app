@@ -5,7 +5,7 @@
       <v-row class="w-100 align-center">
         <v-col>
           <div class="ml-4 font-weight-bold text-subtitle-1 text-white">
-            🔒 QR Admin Dashboard
+            QR Code Scanner
           </div>
         </v-col>
         <v-col class="d-flex justify-end">
